@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.de{
+  position: absolute;
+}
+.link-h:hover{
+  box-shadow: 5px 5px 5px blue;
+}
