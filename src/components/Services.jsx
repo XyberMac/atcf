@@ -187,7 +187,7 @@ function ServicesSection() {
             variants={itemVariants}
           >
             <img 
-              src="clearup.jpg" 
+              src="sup.jpeg" 
               alt="Event cleanup service" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
             />

@@ -103,7 +103,7 @@ function ContactSection() {
                     name="email" 
                     required 
                     className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-warning/50 text-white"
-                    placeholder="your@email.com"
+                    placeholder="Your email"
                   />
                 </div>
               </div>
@@ -115,7 +115,7 @@ function ContactSection() {
                   id="phone" 
                   name="phone" 
                   className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-warning/50 text-white"
-                  placeholder="+27 123 456 7890"
+                  placeholder="Your Phone Number"
                 />
               </div>
               

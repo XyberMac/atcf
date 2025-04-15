@@ -56,7 +56,7 @@ function AboutUs() {
               
               {/* Team Image */}
               <img
-                src="bg.jpg"
+                src="team.jpeg"
                 alt="Angel Top Class Events Team"
                 className="w-full h-auto rounded-lg shadow-2xl object-cover"
               />

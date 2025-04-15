@@ -163,14 +163,14 @@ function Footer() {
               </li>
               <li className="flex items-start">
                 <FaPhone className="text-warning mt-1 mr-3" size={18} />
-                <a href="tel:+27123456789" className="text-gray-400 hover:text-warning transition-colors">
-                  +27 12 345 6789
+                <a href="tel:+27721917182" className="text-gray-400 hover:text-warning transition-colors">
+                  +27 72 191 7182
                 </a>
               </li>
               <li className="flex items-start">
                 <FaEnvelope className="text-warning mt-1 mr-3" size={18} />
-                <a href="mailto:info@angeltopclass.co.za" className="text-gray-400 hover:text-warning transition-colors">
-                  info@angeltopclass.co.za
+                <a href="mailto:jucusiphokazi10@gmail.com" className="text-gray-400 hover:text-warning transition-colors">
+                  jucusiphokazi10@gmail.com
                 </a>
               </li>
               <li className="flex items-start">
