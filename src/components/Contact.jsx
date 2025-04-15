@@ -199,7 +199,7 @@ function ContactSection() {
                 <div>
                   <h4 className="font-bold text-white mb-1">Email Us</h4>
                   <p className="text-gray-400">For inquiries and bookings</p>
-                  <a href="mailto:info@angeltopclass.co.za" className="text-warning hover:underline">info@angeltopclass.co.za</a>
+                  <a href="mailto:info@angeltopclass.co.za" className="text-warning hover:underline">jucusiphokazi10@gmail.com</a>
                 </div>
               </div>
               
@@ -208,9 +208,9 @@ function ContactSection() {
                   <FaPhone className="text-warning" size={24} />
                 </div>
                 <div>
-                  <h4 className="font-bold text-white mb-1">Call Us</h4>
+                  <h4 className="font-bold text-white mb-1">WhatsApp/Call Us</h4>
                   <p className="text-gray-400">We're available 24/7</p>
-                  <a href="tel:+27123456789" className="text-warning hover:underline">+27 12 345 6789</a>
+                  <a href="tel:+27123456789" className="text-warning hover:underline">+27 72 191 7182</a>
                 </div>
               </div>
               
